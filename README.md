@@ -171,6 +171,6 @@ Execute the program
 ~~~
 
 ## OUTPUT:
-![GitHub Logo](timetable.png)
+![GitHub Logo](ttt.png)
 ## result:
 Timetable was created successfully.
